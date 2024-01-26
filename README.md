@@ -1,3 +1,3 @@
 # Demo 2
 
-some teckt
+some teck
